@@ -6,6 +6,7 @@ This repo implements the training and testing  for "Semantic Decomposition Netwo
 ## Results
 ![](https://github.com/anaanaa/SDNet/blob/main/result.jpg)
 ## Dependences
-The code supports Python 3
-PyTorch (>= 1.1.0) \\
+The code supports Python 3 
+
+PyTorch (>= 1.1.0) 
 ## Code will come soon!
